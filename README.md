@@ -11,4 +11,4 @@ A3: Binary Linear Classification vs. Support Vector Machine
 
 A4: Building and Training a CNN with CIFAR10 and Fashion_MNIST datasets
 
-A5: 
+A5: Sentiment Analysis Using Gated-Recurrent Neural Networks
